@@ -1,0 +1,13 @@
+{
+	"name": "ckeditor-indentblock",
+	"version": "4.11.2",
+	"description": "The Indent Block plugin for CKEditor - JavaScript WYSIWYG web text editor.",
+	"author": "CKSource (http://cksource.com/)",
+	"license": "(GPL-2.0 OR LGPL-2.1 OR MPL-1.1)",
+	"bugs": "https://github.com/ckeditor/ckeditor-dev/blob/master/plugins/indentblock",
+	"homepage": "https://ckeditor.com/cke4/addon/indentblock",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ucdavis/ckeditor-indentblock"
+	}
+}
